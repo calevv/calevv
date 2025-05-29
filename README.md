@@ -17,14 +17,17 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=https://velog.io/@ika818488/posts> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@ika818488/posts"> </a>
-         <a href=mailto:ika818488@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ika818488@gmail.com"> </a>
-          </div>  <br> 
+<div align="center">
+  <a href="https://velog.io/@ika818488/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@ika818488/posts"></a>
+  <a href="mailto:ika818488@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ika818488@gmail.com"></a>
+</div>  <br> 
     <div align= "center">  </div> 
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=calevv&show_icons=true&theme=transparent"
-        /></div>  <div align= "center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calevv&hide_progress=true"
+        /></div>
+        <br> 
+        <div align= "center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calevv&hide_progress=true"
           /> </div> 
     </div>
     
